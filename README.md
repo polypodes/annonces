@@ -6,6 +6,7 @@
 
 - [Stage Développeur Web](Stage-developpeur-web.md). Le sujet du stage sera un projet open-source, le plus souvent au profit d'une association locale à but culturel, social ou sportif.
 - [Stage Assistant chef de projet web](Stage-Assistant-chef-de-projet-web.md). 
+- LOL
 
 ### Offres récentes : 
 
